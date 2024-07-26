@@ -3,7 +3,7 @@
 # Bem-vindo ao meu portfólio de ciência de dados!
 
 <p align="center">
-  <img src=""%>
+  <img src="images/Black Simple Professional Corporate Personal Profile LinkedIn Banner.png"%>
 </p>
 
 Olá! Meu nome é Artur Dias e eu sou um estudante de 24 anos cursando Bacharelado em Engenharia de Computação. Minha paixão está em machine learning, ciência de dados, estatística e matemática, e estou constantemente trabalhando em projetos nessas áreas. Explore-os abaixo!
