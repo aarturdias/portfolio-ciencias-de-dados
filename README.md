@@ -50,16 +50,18 @@ Olá! Meu nome é Artur Dias e eu sou um estudante de 24 anos cursando Bacharela
 - Alguns resultados obtidos;
 
 - Número total de lançamentos ano após ano de USSR x USA
+
 <p align="center">
   <img width="80%" height="80%" src="images/hist1.jpg">
 </p>
 - Números de Falhas nos lançamentos
+
 <p align="center">
   <img width="80%" height="80%" src="images/hist2.jpg">
 </p>
 
 ## EM DESENVOLVIMENTO
-- Estudando sobre Deep learnig e Visão Computacional
+- Estudando sobre Deep learning e Visão Computacional
 
 ## CONTATO
 * [LinkedIn](https://www.linkedin.com/in/artur-dias-gama/)
