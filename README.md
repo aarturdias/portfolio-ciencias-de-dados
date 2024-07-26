@@ -66,4 +66,4 @@ Olá! Meu nome é Artur Dias e eu sou um estudante de 24 anos cursando Bacharela
 ## CONTATO
 * [LinkedIn](https://www.linkedin.com/in/artur-dias-gama/)
 * [GitHub](https://github.com/aarturdias)
-* [E-mail](aartur.dias@hotmail.com)
+* E-mail - aartur.dias@hotmail.com
