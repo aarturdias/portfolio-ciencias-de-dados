@@ -33,9 +33,33 @@ Olá! Meu nome é Artur Dias e eu sou um estudante de 24 anos cursando Bacharela
 - Árvore de decisão 67.17%
 - Navie Bayes 53.89%
 
+## EDA
+
+### [Análise Exploratória de Dados (EDA) sobre a Corrida Espacial e Lançamentos de Foguetes](https://github.com/aarturdias/Analysis-the-Space-Race)
+- **Descrição:** Este repositório contém uma Análise Exploratória de Dados (EDA) sobre a corrida espacial e lançamentos de foguetes. A análise tem como objetivo explorar os dados históricos de lançamentos espaciais, identificar padrões e tendências ao longo do tempo
+- **Objetivos:** 
+  Explorar a distribuição dos lançamentos espaciais por ano, país e agência espacial.
+  Identificar tendências e padrões ao longo das décadas.
+  Analisar o sucesso e falhas dos lançamentos de foguetes.
+  Investigar as características dos foguetes e suas missões.
+  Gerar visualizações que facilitem a interpretação dos dados históricos da corrida espacial.
+- **Resultados:** A Análise Exploratória de Dados (EDA) sobre a corrida espacial e lançamentos de foguetes revelou padrões interessantes e insights valiosos. Observamos uma intensa atividade de lançamentos durante os anos 1960 e 1970, impulsionada pela competição entre os Estados Unidos e a União Soviética, que culminou com o pouso do homem na Lua em 1969. Ao longo das décadas, a análise destacou a diversificação dos países e agências espaciais envolvidas em lançamentos, com um aumento significativo nas missões comerciais e privadas nas últimas duas décadas.
+
+- [Clique aqui para conferir o projeto completo](https://github.com/aarturdias/Analysis-the-Space-Race)
+
+- Alguns resultados obtidos;
+
+- Número total de lançamentos ano após ano de USSR x USA
+<p align="center">
+  <img width="80%" height="80%" src="images/hist1.jpg">
+</p>
+- Números de Falhas nos lançamentos
+<p align="center">
+  <img width="80%" height="80%" src="images/hist2.jpg">
+</p>
 
 ## EM DESENVOLVIMENTO
-- 
+- Estudando sobre Deep learnig e Visão Computacional
 
 ## CONTATO
 * [LinkedIn](https://www.linkedin.com/in/artur-dias-gama/)
