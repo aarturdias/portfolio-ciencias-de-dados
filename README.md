@@ -54,6 +54,7 @@ Olá! Meu nome é Artur Dias e eu sou um estudante de 24 anos cursando Bacharela
 <p align="center">
   <img width="80%" height="80%" src="images/hist1.jpg">
 </p>
+
 - Números de Falhas nos lançamentos
 
 <p align="center">
